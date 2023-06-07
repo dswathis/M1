@@ -1,7 +1,7 @@
 package com.cg.entity;
 
 public class ForgotPassDTO {
-	
+	//hello
 
 	    private String email;
 	    private String password;
